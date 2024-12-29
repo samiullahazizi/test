@@ -6,6 +6,8 @@
   "scripts": {
     "start": "node server.js",
     "test": "echo \"No tests specified\" && exit 0"
+    ,
+    "build": "node server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
